@@ -1,0 +1,24 @@
+{
+    "name": "purplapp/ADNLib",
+    "type": "library",
+    "description": "A PHP library for App.net",
+    "keywords": ["adn","appdotnet"],
+    "homepage": "https://github.com/purplapp/ADNLib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ciaran Downey",
+            "email": "me@ciarand.me",
+            "homepage": "http://ciarand.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Adn": "Adn"
+        }
+    }
+}

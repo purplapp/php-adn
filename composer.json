@@ -1,9 +1,9 @@
 {
-    "name": "purplapp/ADNLib",
+    "name": "purplapp/purplapp-adn-lib",
     "type": "library",
     "description": "A PHP library for App.net",
     "keywords": ["adn","appdotnet"],
-    "homepage": "https://github.com/purplapp/ADNLib",
+    "homepage": "https://github.com/purplapp/purplapp-adn-lib",
     "license": "MIT",
     "authors": [
         {

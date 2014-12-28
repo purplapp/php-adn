@@ -1,14 +1,14 @@
 {
-    "name": "purplapp/purplapp-adn-lib",
+    "name": "purplapp/php-adn",
     "type": "library",
-    "description": "A PHP library for App.net",
+    "description": "A PHP client library for the App.net API",
     "keywords": ["adn","appdotnet"],
-    "homepage": "https://github.com/purplapp/purplapp-adn-lib",
+    "homepage": "https://github.com/purplapp/php-adn",
     "license": "MIT",
     "authors": [
         {
             "name": "Ciaran Downey",
-            "email": "me@ciarand.me",
+            "email": "code@ciarand.me",
             "homepage": "http://ciarand.me",
             "role": "Developer"
         }
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Adn": "Adn"
+            "Purplapp\\Adn\\": "src"
         }
     }
 }

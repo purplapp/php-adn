@@ -1,0 +1,15 @@
+php-adn
+=======
+:toc:
+
+[quote]
+A PHP library for App.net, used by
+link:https://github.com/purplapp/purplapp[Purplapp].
+
+Status
+------
+Not ready for production use.
+
+License
+-------
+ISC, see the LICENSE file.
